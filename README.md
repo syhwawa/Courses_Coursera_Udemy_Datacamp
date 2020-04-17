@@ -1,4 +1,4 @@
-- #### [IBM: Applied Data Science Specialization]
+- #### [IBM: Applied Data Science Specialization] (./IBM-Data-Science/Data Science Methodology/)
 1. [IBM: Open Source tools for Data Science]
 2. [IBM: Data Science Methodology]
 3. [IBM: Python for Data Science]
