@@ -1,0 +1,8 @@
+*.pl linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
+*.py linguist-detectable=true
+public/libs/* linguist-vendored
+scot-ui/public/libs/ linguist-vendored
+docs/* linguist-documentation
