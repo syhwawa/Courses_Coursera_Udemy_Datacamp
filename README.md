@@ -5,7 +5,7 @@
 4. [IBM: Data Analysis with Python](./IBM-Data-Science/Data%20Analysis%20with%20Python)
 5. [IBM: Data Visualization with Python](./IBM-Data-Science/Data%20Visulazation%20with%20Python)
 6. [IBM: Machine Learning with Python](./IBM-Data-Science/Machine%20Learning%20With%20Python)
-7. [IBM: Applied Data Science Capstone Project]
+7. [IBM: Applied Data Science Capstone Project] (./IBM-Data-Science/Applied%20Data%20Science%20Caspstone)
 
-- #### [Rice University-Python Data Analysis]
+- #### [Rice University-Python Data Analysis] (.
 
