@@ -8,3 +8,6 @@
 7. [IBM: Applied Data Science Capstone Project](./IBM-Data-Science/Applied%20Data%20Science%20Caspstone)
 
 - #### [Rice University-Python Data Analysis](./Rice%20University_Python%20Data%20Analysis)
+
+
+- #### [Machine Learning-Andrew Ng](./Machine%20Learning-Andrew%20Ng/Week1)
