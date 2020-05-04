@@ -10,4 +10,4 @@
 - #### [Rice University-Python Data Analysis](./Rice%20University_Python%20Data%20Analysis)
 
 
-- #### [Machine Learning-Andrew Ng](./Machine%20Learning-Andrew%20Ng/Week1)
+- #### [Machine Learning-Andrew Ng](./Andrew%20Ng_Machine%20Learning)
