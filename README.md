@@ -7,7 +7,7 @@
 6. [IBM: Machine Learning with Python](./IBM_Data%20Science/Machine%20Learning%20With%20Python)
 7. [IBM: Applied Data Science Capstone Project](./IBM_Data%20Science/Applied%20Data%20Science%20Caspstone)
 
-- #### Coursera-[Rice University-Python Data Analysis](./Rice%20University-Python%20Data%20Analysis)
+- #### Coursera-[Rice University-Python Data Analysis (./Rice%20University-Python%20Data%20Analysis)
 
 
 - #### Coursera-[Machine Learning-Andrew Ng](./Andrew%20Ng_Machine%20Learning)
