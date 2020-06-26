@@ -1,4 +1,4 @@
-- ## Coursera
+This repository is for the learning materials from Coursera, Udemy and Datacamp including the lecture notes and assignment.
 
 - #### Coursera-[IBM: Applied Data Science Specialization]
 1. [IBM: Data Science Methodology](./IBM_Data%20Science/Data%20Science%20Methodology)
