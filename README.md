@@ -14,10 +14,10 @@
 - #### Coursera-[Machine Learning-Andrew Ng](./Andrew%20Ng_Machine%20Learning)
 
 - ## DataCamp
-[Python Data Science Toolbox 1](Datacamp/Python%20Data%20Science%20Toolbox%201)
-[Python Data Science Toolbox 2]()
-[Statistics Thinking in Python I]()
-[Statistics Thinking in Python II]
+1. [Python Data Science Toolbox 1](/Datacamp/Python%20Data%20Science%20Toolbox%201)
+2. [Python Data Science Toolbox 2](/Datacamp/Python%20Data%20Science%20Toolbox%202)
+3. [Statistics Thinking in Python I](https://github.com/syhwawa/Courses_Coursera_Udemy_Datacamp/tree/master/Datacamp/Statistics%20Thinking%20in%20Python%20I)
+4. [Statistics Thinking in Python II](https://github.com/syhwawa/Courses_Coursera_Udemy_Datacamp/tree/master/Datacamp/Statistics%20Thinking%20in%20Python%20II)
 
 
 
