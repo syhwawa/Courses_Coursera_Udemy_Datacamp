@@ -2,7 +2,8 @@
 DataCamp courses I have completed. 
 
 ### Career Track: 
-[1. Data Scientist with Python ](https://github.com/syhwawa/Courses_Coursera_Udemy_Datacamp/blob/master/Datacamp/DS.JPG)
+__1. Data Scientist with Python__
+![](https://github.com/syhwawa/Courses_Coursera_Udemy_Datacamp/blob/master/Datacamp/DS.JPG)
 - 23 courses in total
 - Gain the career-building Python skills you need to succeed as a data scientist. No prior coding experience required.
 
