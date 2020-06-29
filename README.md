@@ -15,6 +15,7 @@ This repository is for the learning materials from Coursera, Udemy and Datacamp 
 #### Coursera-[Machine Learning-Andrew Ng](./Andrew%20Ng_Machine%20Learning)
 
 ## DataCamp
+DataCamp courses I have completed including data science,statistics, python, machine learning
 1. [Introduction Python](https://github.com/syhwawa/Courses_Coursera_Udemy_Datacamp/tree/master/Datacamp/Introduction%20to%20Python)
 2. [Intermediate Python](https://github.com/syhwawa/Courses_Coursera_Udemy_Datacamp/tree/master/Datacamp/Intermediate%20Python)
 3. [Python Data Science Toolbox 1](/Datacamp/Python%20Data%20Science%20Toolbox%201)
